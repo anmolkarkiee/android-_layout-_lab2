@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.tipcalculator'
+    namespace 'com.example.unitconverter'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.tipcalculator"
-        minSdk 26
+        applicationId "com.example.unitconverter"
+        minSdk 24
         targetSdk 33
         versionCode 1
         versionName "1.0"
